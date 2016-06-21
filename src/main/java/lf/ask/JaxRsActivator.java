@@ -11,7 +11,7 @@ import javax.ws.rs.core.Application;
  * @author Achyut Pokhrel <achyutpokhrel@lftechnology.com>
  *
  */
-@ApplicationPath("/")
+@ApplicationPath("api")
 public class JaxRsActivator extends Application {
 
 }
